@@ -1,0 +1,46 @@
+
+.list-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #0079ce;
+    margin-top: 10px;
+  }
+.list-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #0079ce;
+    margin-top: 10px;
+}
+.btn{
+    background-color: lightcyan;
+    cursor: pointer;
+    width: 20px ;
+    height: 20px;
+    color: black;
+    border-radius: 10px;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+.delete-btn{
+    cursor: pointer;
+}
+.points{
+    padding: 2px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.list-item{
+    width: 14%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

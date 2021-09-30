@@ -1,0 +1,12 @@
+.mainContainer{
+    background-color: rebeccapurple;
+    color: aliceblue;
+}
+.header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+width: 60%;
+margin: 0 auto;
+}

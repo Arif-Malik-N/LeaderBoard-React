@@ -1,0 +1,2 @@
+export const CREATE_LEADER = 'CREATE_LEADER'
+export const GET_LEADERS = 'GET_LEADERS'
